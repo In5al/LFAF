@@ -1,7 +1,7 @@
-#Intro to formal languages. Regular grammars. Finite Automata.
+# Intro to formal languages. Regular grammars. Finite Automata.
 
-##University: Technical University of Moldova
+## University: Technical University of Moldova
 
-##Course: Formal Languages & Finite Automata
+## Course: Formal Languages & Finite Automata
 
-##Author: Carp Dan-Octavian
+### Author: Carp Dan-Octavian
