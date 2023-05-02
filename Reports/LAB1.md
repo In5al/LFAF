@@ -8,7 +8,7 @@
 
 ---------
 
-##Theory 
+## Theory 
 
 A formal language is a set of finite-length sequences of symbols that are constructed according to a set of well-defined rules or grammar. These sequences are often called strings, and the symbols used to construct the strings are drawn from a finite set of characters, called the alphabet.
 
@@ -23,3 +23,11 @@ There are several types of grammars commonly used in formal language theory, inc
 Grammar plays an important role in the study of formal languages and finite automata because it provides a way to formally describe and analyze the structure and behavior of languages. By defining the rules for constructing strings that are valid in the language, grammars allow us to think about the properties of the language and the algorithms and systems that process linguistic input. 
 
 A finite state machine is a mathematical model used to identify and control formal languages. This model consists of a set of states, inputs, transitions, and outputs which can be employed to depict the behaviour of a machine that processes verbal input. An FSM goes through symbols from an alphabet one at a time, transitioning from one state to another in agreement with a set of transition rules that decide how it responds to each symbol. It can be used to recognize and generate language strings, as well as to determine if a string is part of a certain language. There are various types of finite automata like deterministic finite automata (DFA), nondeterministic finite automata (NFA), and pushdown automata (PDA) with distinct capabilities and restrictions.
+
+
+
+## Objectives:
+
+* Get familiar with formal languages, regular grammars & finite automata.
+* Implement functionality for regular grammars and finite automata.
+* Showcase the execution of the program.
